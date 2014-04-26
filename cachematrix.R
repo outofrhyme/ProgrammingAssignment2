@@ -1,5 +1,6 @@
-## Use these two functions first to create a cache of the inverse of a matrix, 
-## and then to retrieve the inverse at a later time.
+## Use these two functions first to create a place to cache the solved inverse
+## values of a matrix, and then to solve and store inverse values to be
+## reused at a future time.
 
 ## makeCacheMatrix: This function takes a matrix as an input. If there is no
 ## matrix specified, the function will create an empty matrix. The function
